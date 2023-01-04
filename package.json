@@ -1,0 +1,25 @@
+{
+  "name": "windowmock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-drafts": "npx rollup --config drafts/rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farishan/windowmock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farishan/windowmock/issues"
+  },
+  "homepage": "https://github.com/farishan/windowmock#readme",
+  "devDependencies": {
+    "rollup": "^3.9.1"
+  }
+}
